@@ -4,7 +4,7 @@
 // @description Adds the now missing "Trending" and "Stars" button to github left item bar
 // @namespace   add-trending-to-github
 // @include     http*://github.com/*
-// @version     0.3
+// @version     0.4
 // @grant       none
 // ==/UserScript==
 
