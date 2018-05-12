@@ -4,7 +4,7 @@
 // @description unfocus
 // @namespace   unfocus
 // @include     http*://github.com/search*
-// @version     0.1
+// @version     0.2
 // @grant       none
 // ==/UserScript==
 
